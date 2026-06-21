@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://premierconcreteofrisco.com
+
+# Sitemaps
+Sitemap: https://premierconcreteofrisco.com/sitemap.xml
