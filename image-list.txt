@@ -1,0 +1,144 @@
+PREMIER CONCRETE OF FRISCO — IMAGE NAMING & SEARCH GUIDE
+==========================================================
+
+Use these filenames and search phrases to source or name
+all 28 images needed for the website.
+
+Format: filename → suggested stock photo search phrase
+
+
+===========================================================
+HERO / BANNER IMAGES (11)
+Dimensions: 1920x1080 or wider, landscape orientation
+Save to: public/images/
+===========================================================
+
+1. hero-home.jpg
+   → "concrete driveway luxury home Texas suburb aerial"
+
+2. hero-services.jpg
+   → "concrete crew pouring slab North Texas residential construction"
+
+3. hero-gallery.jpg
+   → "stamped concrete patio backyard pool Frisco Texas"
+
+4. hero-contact.jpg
+   → "concrete contractor handshake homeowner new home Texas"
+
+5. hero-driveways.jpg
+   → "fresh poured concrete driveway upscale home Frisco Texas curb appeal"
+
+6. hero-patios.jpg
+   → "stamped concrete patio outdoor living space Texas backyard entertaining"
+
+7. hero-pool-decks.jpg
+   → "cool deck concrete pool surround Texas summer luxury home"
+
+8. hero-block-walls.jpg
+   → "concrete block retaining wall residential backyard grade change Texas"
+
+9. hero-foundations.jpg
+   → "post tension concrete slab foundation pour new construction Texas"
+
+10. hero-commercial.jpg
+    → "commercial concrete parking lot pour Frisco Texas Tollway corridor"
+
+11. hero-service-areas.jpg
+    → "aerial view Frisco Texas master planned community homes rooftops"
+
+
+===========================================================
+GALLERY IMAGES (16)
+Dimensions: 1200x800 minimum, landscape orientation
+Save to: public/images/gallery/
+===========================================================
+
+DRIVEWAYS (3)
+12. gallery-driveway-stamped-frisco.jpg
+    → "stamped concrete driveway Frisco Texas cobblestone pattern"
+
+13. gallery-driveway-exposed-aggregate.jpg
+    → "exposed aggregate concrete driveway DFW North Texas home"
+
+14. gallery-driveway-broom-finish.jpg
+    → "broom finish concrete driveway two car garage suburban Texas"
+
+PATIOS (3)
+15. gallery-patio-stamped-starwood.jpg
+    → "stamped concrete patio flagstone pattern outdoor furniture Texas"
+
+16. gallery-patio-outdoor-kitchen.jpg
+    → "concrete patio outdoor kitchen grill area backyard Frisco"
+
+17. gallery-patio-extension-backyard.jpg
+    → "extended concrete patio pergola shade structure Texas home"
+
+POOL DECKS (3)
+18. gallery-pool-deck-cool-coat.jpg
+    → "cool deck coating pool surround slip resistant Texas summer"
+
+19. gallery-pool-deck-resurface.jpg
+    → "resurfaced concrete pool deck textured finish luxury home"
+
+20. gallery-pool-deck-textured.jpg
+    → "textured pool deck concrete freeform pool Texas backyard"
+
+BLOCK WALLS (2)
+21. gallery-block-wall-retaining.jpg
+    → "concrete block retaining wall terraced backyard landscaping Texas"
+
+22. gallery-block-wall-privacy.jpg
+    → "decorative privacy block wall pool equipment screen Frisco"
+
+FOUNDATIONS (2)
+23. gallery-foundation-slab-pour.jpg
+    → "post tension slab foundation rebar cables new home Texas"
+
+24. gallery-foundation-garage-slab.jpg
+    → "concrete garage slab pour residential workshop floor DFW"
+
+COMMERCIAL (3)
+25. gallery-commercial-parking-lot.jpg
+    → "commercial concrete parking lot striping Frisco Texas retail"
+
+26. gallery-commercial-sidewalk-curb.jpg
+    → "concrete sidewalk curb ADA ramp commercial property Texas"
+
+27. gallery-commercial-loading-dock.jpg
+    → "commercial loading dock concrete warehouse Frisco Tollway"
+
+
+===========================================================
+SOCIAL / SEO (1)
+Dimensions: 1200x630
+Save to: public/
+===========================================================
+
+28. og-image.jpg
+    → "Premier Concrete Of Frisco logo concrete texture gold charcoal"
+    (Best created as a branded graphic with your logo, tagline,
+    and phone number over a concrete texture background)
+
+
+===========================================================
+NOTES
+===========================================================
+
+- All photos should reflect the Frisco TX area: newer suburban
+  homes, manicured landscaping, warm Texas sunlight, clean jobsites.
+
+- Avoid generic national stock photos. Look for images that feel
+  like North Texas: flat-to-rolling terrain, clay-colored soil,
+  contemporary and traditional homes, green St. Augustine lawns.
+
+- Prioritize photos from actual Premier Concrete Of Frisco jobs
+  over stock images wherever possible.
+
+- Recommended stock sources: Shutterstock, Adobe Stock, iStock.
+  Search with "Texas" or "DFW" to get regionally accurate results.
+
+- Hero images should be high-resolution (at least 1920px wide)
+  since they span full viewport width.
+
+- Gallery images can be smaller but should be at least 1200px wide
+  for sharp display on desktop.
