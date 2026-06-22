@@ -18,7 +18,7 @@ export default function GalleryPage() {
       <HeroSection
         title="Our Work Speaks for Itself"
         subtitle="Browse completed concrete projects from across Frisco and surrounding communities."
-        imageSrc="https://picsum.photos/seed/gallery/1920/800"
+        imageSrc="/frisco-photos-named/hero-gallery.jpg"
         imageAlt="Concrete project gallery"
         height="h-[300px] md:h-[350px]"
       />

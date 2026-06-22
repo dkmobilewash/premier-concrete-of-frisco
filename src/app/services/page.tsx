@@ -19,7 +19,7 @@ export default function ServicesPage() {
       <HeroSection
         title="Professional Concrete Services in Frisco"
         subtitle="From residential driveways to commercial slabs, Premier Concrete Of Frisco delivers quality craftsmanship on every project."
-        imageSrc="https://picsum.photos/seed/services/1920/800"
+        imageSrc="/frisco-photos-named/hero-services.jpg"
         imageAlt="Concrete services in Frisco, Texas"
         height="h-[350px] md:h-[400px]"
       />

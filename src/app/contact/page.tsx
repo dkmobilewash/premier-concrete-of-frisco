@@ -46,7 +46,7 @@ export default function ContactPage() {
       <HeroSection
         title="Get Your Free Concrete Estimate"
         subtitle="Tell us about your project and we'll get back to you within one business day."
-        imageSrc="https://picsum.photos/seed/contact/1920/800"
+        imageSrc="/frisco-photos-named/hero-contact.jpg"
         imageAlt="Contact Premier Concrete Of Frisco"
         height="h-[300px] md:h-[350px]"
       />

@@ -7,7 +7,7 @@ export const services: Service[] = [
     metaTitle: "Concrete Driveways in Frisco TX | Premier Concrete Of Frisco",
     metaDescription:
       "Custom concrete driveways for Frisco homes. Stamped, broom finish, and exposed aggregate options. Licensed, insured, and free estimates.",
-    heroImage: "https://picsum.photos/seed/driveway/1920/800",
+    heroImage: "/frisco-photos-named/hero-driveways.jpg",
     heroSubtitle:
       "Custom-poured driveways built to handle North Texas weather and elevate your curb appeal.",
     shortDescription:
@@ -77,7 +77,7 @@ We offer a full range of finishes: traditional broom finish for a clean, slip-re
     metaTitle: "Concrete Patios in Frisco TX | Premier Concrete Of Frisco",
     metaDescription:
       "Beautiful concrete patios for Frisco outdoor living. Stamped, stained, and decorative options. Free estimates from licensed contractors.",
-    heroImage: "https://picsum.photos/seed/patio/1920/800",
+    heroImage: "/frisco-photos-named/hero-patios.jpg",
     heroSubtitle:
       "Extend your living space with a custom concrete patio designed for Texas outdoor life.",
     shortDescription:
@@ -152,7 +152,7 @@ We work with you on layout, finish, and color selection during a no-cost design 
     metaTitle: "Pool Deck Concrete in Frisco TX | Premier Concrete Of Frisco",
     metaDescription:
       "Slip-resistant, cool-to-the-touch pool deck concrete for Frisco homes. Resurfacing and new pours. Free estimates available.",
-    heroImage: "https://picsum.photos/seed/pooldeck/1920/800",
+    heroImage: "/frisco-photos-named/hero-pool-decks.jpg",
     heroSubtitle:
       "Slip-resistant, cool-to-the-touch pool decks built for long Texas summers.",
     shortDescription:
@@ -223,7 +223,7 @@ Whether you're building a new pool deck from the ground up or resurfacing an agi
     metaTitle: "Block Wall Construction in Frisco TX | Premier Concrete",
     metaDescription:
       "Retaining walls, privacy walls, and decorative block walls in Frisco. Expert CMU construction from Premier Concrete Of Frisco.",
-    heroImage: "https://picsum.photos/seed/blockwall/1920/800",
+    heroImage: "/frisco-photos-named/hero-block-walls.jpg",
     heroSubtitle:
       "Retaining walls, privacy screens, and decorative block construction for Frisco properties.",
     shortDescription:
@@ -294,7 +294,7 @@ Our block wall services also include decorative garden walls, property boundary 
       "Concrete Foundations & Slabs in Frisco TX | Premier Concrete",
     metaDescription:
       "Engineered concrete foundations and slabs for Frisco homes and buildings. Post-tension, garage slabs, and shop floors. Free estimates.",
-    heroImage: "https://picsum.photos/seed/foundation/1920/800",
+    heroImage: "/frisco-photos-named/hero-foundations.jpg",
     heroSubtitle:
       "Engineered foundations and slabs built for North Texas soil conditions.",
     shortDescription:
@@ -370,7 +370,7 @@ Post-tension slabs — which use high-strength steel cables tensioned after the 
       "Commercial Concrete Contractor Frisco TX | Premier Concrete",
     metaDescription:
       "Commercial concrete services in Frisco — parking lots, sidewalks, loading docks, and ADA-compliant flatwork. Bonded, insured, and experienced.",
-    heroImage: "https://picsum.photos/seed/commercial/1920/800",
+    heroImage: "/frisco-photos-named/hero-commercial.jpg",
     heroSubtitle:
       "Parking lots, sidewalks, and commercial flatwork for Frisco businesses.",
     shortDescription:

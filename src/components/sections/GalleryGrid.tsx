@@ -16,22 +16,22 @@ const categories = [
 ];
 
 const galleryImages: GalleryImage[] = [
-  { id: 1, src: "https://picsum.photos/seed/gal1/600/400", alt: "Stamped concrete driveway in Frisco", category: "Driveways" },
-  { id: 2, src: "https://picsum.photos/seed/gal2/600/400", alt: "Decorative patio with outdoor kitchen", category: "Patios" },
-  { id: 3, src: "https://picsum.photos/seed/gal3/600/400", alt: "Cool deck pool surround", category: "Pool Decks" },
-  { id: 4, src: "https://picsum.photos/seed/gal4/600/400", alt: "Retaining block wall", category: "Block Walls" },
-  { id: 5, src: "https://picsum.photos/seed/gal5/600/400", alt: "Residential foundation pour", category: "Foundations" },
-  { id: 6, src: "https://picsum.photos/seed/gal6/600/400", alt: "Commercial parking lot concrete", category: "Commercial" },
-  { id: 7, src: "https://picsum.photos/seed/gal7/600/400", alt: "Exposed aggregate driveway", category: "Driveways" },
-  { id: 8, src: "https://picsum.photos/seed/gal8/600/400", alt: "Stamped patio in Starwood", category: "Patios" },
-  { id: 9, src: "https://picsum.photos/seed/gal9/600/400", alt: "Pool deck resurfacing", category: "Pool Decks" },
-  { id: 10, src: "https://picsum.photos/seed/gal10/600/400", alt: "Privacy block wall", category: "Block Walls" },
-  { id: 11, src: "https://picsum.photos/seed/gal11/600/400", alt: "Post-tension slab foundation", category: "Foundations" },
-  { id: 12, src: "https://picsum.photos/seed/gal12/600/400", alt: "Commercial sidewalk and curb", category: "Commercial" },
-  { id: 13, src: "https://picsum.photos/seed/gal13/600/400", alt: "Broom finish driveway", category: "Driveways" },
-  { id: 14, src: "https://picsum.photos/seed/gal14/600/400", alt: "Backyard patio extension", category: "Patios" },
-  { id: 15, src: "https://picsum.photos/seed/gal15/600/400", alt: "Textured pool deck finish", category: "Pool Decks" },
-  { id: 16, src: "https://picsum.photos/seed/gal16/600/400", alt: "Commercial loading dock", category: "Commercial" },
+  { id: 1, src: "/frisco-photos-named/gallery-driveway-stamped-frisco.jpg", alt: "Stamped concrete driveway in Frisco", category: "Driveways" },
+  { id: 2, src: "/frisco-photos-named/gallery-patio-outdoor-kitchen.jpg", alt: "Decorative patio with outdoor kitchen", category: "Patios" },
+  { id: 3, src: "/frisco-photos-named/gallery-pool-deck-cool-coat.jpg", alt: "Cool deck pool surround", category: "Pool Decks" },
+  { id: 4, src: "/frisco-photos-named/gallery-block-wall-retaining.jpg", alt: "Retaining block wall", category: "Block Walls" },
+  { id: 5, src: "/frisco-photos-named/gallery-foundation-slab-pour.jpg", alt: "Residential foundation pour", category: "Foundations" },
+  { id: 6, src: "/frisco-photos-named/gallery-commercial-parking-lot.jpg", alt: "Commercial parking lot concrete", category: "Commercial" },
+  { id: 7, src: "/frisco-photos-named/gallery-driveway-exposed-aggregate.jpg", alt: "Exposed aggregate driveway", category: "Driveways" },
+  { id: 8, src: "/frisco-photos-named/gallery-patio-stamped-starwood.jpg", alt: "Stamped patio in Starwood", category: "Patios" },
+  { id: 9, src: "/frisco-photos-named/gallery-pool-deck-resurface.jpg", alt: "Pool deck resurfacing", category: "Pool Decks" },
+  { id: 10, src: "/frisco-photos-named/gallery-block-wall-privacy.jpg", alt: "Privacy block wall", category: "Block Walls" },
+  { id: 11, src: "/frisco-photos-named/gallery-foundation-garage-slab.jpg", alt: "Post-tension slab foundation", category: "Foundations" },
+  { id: 12, src: "/frisco-photos-named/gallery-commercial-sidewalk-curb.jpg", alt: "Commercial sidewalk and curb", category: "Commercial" },
+  { id: 13, src: "/frisco-photos-named/gallery-driveway-broom-finish.jpg", alt: "Broom finish driveway", category: "Driveways" },
+  { id: 14, src: "/frisco-photos-named/gallery-patio-extension-backyard.jpg", alt: "Backyard patio extension", category: "Patios" },
+  { id: 15, src: "/frisco-photos-named/gallery-pool-deck-textured.jpg", alt: "Textured pool deck finish", category: "Pool Decks" },
+  { id: 16, src: "/frisco-photos-named/gallery-commercial-loading-dock.jpg", alt: "Commercial loading dock", category: "Commercial" },
 ];
 
 export default function GalleryGrid() {

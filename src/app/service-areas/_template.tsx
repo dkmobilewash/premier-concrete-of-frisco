@@ -73,7 +73,7 @@ export default function LocationPageTemplate({
         subtitle={location.heroSubtitle}
         ctaText="Get a Free Estimate"
         ctaHref="#contact-form"
-        imageSrc="https://picsum.photos/seed/location/1920/800"
+        imageSrc="/frisco-photos-named/hero-service-areas.jpg"
         imageAlt={`Concrete services in ${location.city}, Frisco Texas`}
         height="h-[350px] md:h-[450px]"
       />
