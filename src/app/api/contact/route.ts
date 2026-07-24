@@ -7,6 +7,21 @@ export async function POST(request: Request) {
 
     const { name, phone, email, area, service, description, referral } = body;
 
+        // Forward to Zapier webhook for lead tracking
+        try {
+                await fetch('https://hooks.zapier.com/hooks/catch/20117350/44fmixd/', {
+                          method: 'POST',
+                          headers: { 'Content-Type': 'application/json' },
+                          body: JSON.stringify({
+                                      ...body,
+                                      website: 'Premier Concrete of Frisco',
+                                      submittedAt: new Date().toISOString(),
+                          }),
+                });
+        } catch (zapierError) {
+                console.error('[Zapier Webhook Error]', zapierError);
+        }
+
     const { error } = await resend.emails.send({
       from: "Premier Concrete Of Frisco <onboarding@resend.dev>",
       to: "tightiesllc@gmail.com",
